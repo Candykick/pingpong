@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "752070486860",
+    "firebase_url": "https://pingpong-7ef3a.firebaseio.com",
+    "project_id": "pingpong-7ef3a",
+    "storage_bucket": "pingpong-7ef3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752070486860:android:3af2a0355b11d2ab16bde9",
+        "android_client_info": {
+          "package_name": "com.candykick.pingpong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752070486860-6f6gi96au9k74gs8pkepe02l675hqeb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBECNXgGJgy2fG_EC3HGCwcroJBtakiJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752070486860-6f6gi96au9k74gs8pkepe02l675hqeb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
